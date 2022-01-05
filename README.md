@@ -2,8 +2,7 @@
 
 ## Simple Booking Your Bus And Enjoy Your Journey
 
-<img src="https://github.com/IT-Craft-Solution/Bus-Booking/blob/main/combine_images.png">
-<br/><br/>
+
 <img src="https://github.com/IT-Craft-Solution/Bus-Booking/blob/master/Screenshots/image-1.jpeg" height="600" width="300" hspace="40">
 <img src="https://github.com/IT-Craft-Solution/Bus-Booking/blob/master/Screenshots/image-2.jpeg" height="600" width="300" hspace="40">
 <img src="https://github.com/IT-Craft-Solution/Bus-Booking/blob/master/Screenshots/image-3.jpeg" height="600" width="300" hspace="40">
